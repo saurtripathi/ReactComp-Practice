@@ -1,0 +1,39 @@
+button {
+  border-radius: 5px;
+}
+
+.button-sm {
+  padding: 0.5em 1em;
+  border: 1px solid rgb(30, 54, 30);
+  background-color: rgb(221, 227, 233);
+  color: black;
+  border-radius: 5px;
+}
+
+.button-lg {
+  padding: 2em 4em;
+  border: 1px solid black;
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 5px;
+}
+
+.button-med {
+  padding: 1em 2em;
+}
+
+.button-success {
+  color: green;
+  border: 5px solid green;
+
+}
+
+.button-warning {
+  color: orange;
+  border: 5px solid orange;
+}
+
+.button-error {
+  color: red;
+  border: 5px solid red;
+}
